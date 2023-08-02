@@ -1,0 +1,18 @@
+@media (max-width: 1280px) {
+  .search-bar{
+    display: none;
+  }
+}
+  
+@media (max-width: 1024px) {
+  .search-bar{
+    width: 40rem;
+  }
+  .nav-media{
+      display: none;
+    }
+    .nav-media1{
+      display: block;
+      display: flex;
+  }
+}
